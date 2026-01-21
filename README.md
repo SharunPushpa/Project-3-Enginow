@@ -9,13 +9,13 @@ This project focuses on building a Machine Learning–based system that predicts
 
 The main objectives of this project are:
 
-To predict whether a customer is likely to churn (Yes/No)
+* To predict whether a customer is likely to churn (Yes/No)
 
-To identify important factors contributing to customer churn
+* To identify important factors contributing to customer churn
 
-To generate business-driven insights for customer retention strategies
+* To generate business-driven insights for customer retention strategies
 
-Recall and F1-score are treated as primary evaluation metrics due to class imbalance in churn data.
+* Recall and F1-score are treated as primary evaluation metrics due to class imbalance in churn data.
 
 **3. Dataset Description**
 
@@ -137,6 +137,6 @@ Based on model results and data insights, the following recommendations were mad
 
 * New customers with high monthly charges should be offered onboarding incentives
 
-12. Conclusion
+**12. Conclusion**
 
 This project successfully demonstrates an end-to-end Machine Learning workflow for customer churn prediction. It combines data preprocessing, feature engineering, model building, evaluation, and business insights. The project aligns with industry practices and is suitable for academic submissions, internships, and interview discussions.
