@@ -1,4 +1,5 @@
 **Customer Churn Prediction & Retention Analysis System**
+
 **1.Introduction**
 
 Customer churn refers to the situation where customers stop using a company’s product or service. In competitive Telecom and SaaS industries, customer retention is crucial for maintaining revenue and long-term growth. Predicting churn in advance allows businesses to take proactive steps to retain customers.
